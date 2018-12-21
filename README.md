@@ -3,7 +3,7 @@ This library makes easy to perform HTTP request and handle responses easily
 ### Features
 * Supports HTTP
 * Memory Cache for JSON, Image
-* Supports Various request methods
+* Supports Various request method
 * Request Cancellation etc
 * Auto evict item in cache if not used for recently
 
